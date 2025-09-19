@@ -1,0 +1,5 @@
+//Git def:
+Git is a version controler system and Collabarative on code
+
+//GitHub def:
+GitHUb is a online repository, is a web based Git repository hosting service
