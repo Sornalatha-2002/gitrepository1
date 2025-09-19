@@ -1,6 +1,6 @@
 //git push commands (from created a file upto pushed Git repo)
 
 1.git clone url
-2.git add file name || git add . 
+2.git add file name || git add . (single | multiple file )
 3.git commit -m "first commit"
 4.git push origin main

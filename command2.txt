@@ -1,0 +1,7 @@
+//reset commands
+
+1.git rm filename (it remove the file from main folder)
+2.git rm --catched(it remove the file from commit and untracke file)
+3.git reset (reset from staged to unstaged)
+4.git reset HEAD (reset from commit to staged)
+5.git reset --hard previous commit id
