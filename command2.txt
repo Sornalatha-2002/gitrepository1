@@ -5,3 +5,4 @@
 3.git reset (reset from staged to unstaged)
 4.git reset HEAD (reset from commit to staged)
 5.git reset --hard previous commit id
+6.git commit -a -m "directly commit without stage"
